@@ -41,4 +41,3 @@ I am an **Electrical and Computer Engineering** graduate student at **Queen's Un
 ## 📬 Connect with Me
 * 📧 **Email**: [priyeshvashistha9@gmail.com](mailto:priyeshvashistha9@gmail.com) or [23dp46@queensu.ca](mailto:23dp46@queensu.ca)
 * 📍 **Location**: Kingston, ON
-* 
