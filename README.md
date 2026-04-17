@@ -26,7 +26,8 @@ I am an **Electrical and Computer Engineering** graduate student at **Queen's Un
 * **Mars Rover Navigation (MHA* Ablation Study)**: Evaluated heuristic diversity for terrain-aware navigation on grid maps.
 * **Multi-Robot Coordination**: Investigated trust and blame attribution in human-robot interaction during failures.
 * **Bluetooth/Voice Controlled Robot**: Developed a compact robot featuring object sensing and voice-controlled navigation.
-
+* **Dual-Drive-Modular-Microbot-with-Autonomous-Latching**: 
+  
 ### 🧠 Machine Learning & AI
 * **Interactive Cardiovascular Risk Assessment**: Designed a hybrid ML system (ROC-AUC: 0.802) with fairness audits across genders.
 
