@@ -1,13 +1,13 @@
 # Hi there, I'm Priyesh Vashistha! 👋
 
-I am an **Electrical and Computer Engineering** graduate student at **Queen's University**. My work focuses on the intersection of robotics, AI, and embedded systems, with a specific interest in Human-Robot Interaction and planning algorithms.
+I am an **Electrical and Computer Engineering** graduate student at **Queen's University**. My work focuses on the intersection of robotics, AI, and embedded systems, with a specific interest in prototyping robots and bringing ideas to life.
 
 ---
 
 ## 🚀 About Me
 * 🎓 **Current Studies**: MEng. in Electrical and Computer Engineering at Queen's University, Kingston.
-* 🛠️ **Experience**: Background in R&D engineering and embedded systems.
-* 🤖 **Interests**: Search and planning algorithms, interactive AI systems, and multi-robot coordination.
+* 🛠️ **Experience**: Background in R&D engineering and 3D Modeling.
+* 🤖 **Interests**: robotics, HRI, 3D-printing.
 * 🏆 **Leadership**: Former President of the ECE Department and Head of the Robotics Club.
 
 ---
@@ -29,8 +29,6 @@ I am an **Electrical and Computer Engineering** graduate student at **Queen's Un
 
 ### 🧠 Machine Learning & AI
 * **Interactive Cardiovascular Risk Assessment**: Designed a hybrid ML system (ROC-AUC: 0.802) with fairness audits across genders.
-* **Breast Cancer Detection**: Achieved 96%+ accurate diagnosis using XGBoost, Random Forest, and KNN.
-* **Customer Churn Prediction**: Developed models using XGBoost and SMOTE to enhance retention strategies by 20-30%.
 
 ### ⚡ Engineering & IoT
 * **Low Cost Electronic Ventilator**: Constructed an Arduino-based ventilator achieving an approximately 90% cost reduction.
