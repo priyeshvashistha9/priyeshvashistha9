@@ -22,6 +22,10 @@ I am an **Electrical and Computer Engineering** graduate student at **Queen's Un
 
 ## 🛠️ Featured Projects
 
+### 🖐️ Biomedical & Wearable Tech
+
+- **Washable Smart Glove for Stroke Rehabilitation**: Designed a patient-centric, modular hardware architecture integrating 7 flex sensors, 18 pressure sensors, and 6 IMUs via a custom 2-layer PCB; validated on breadboard/Arduino ahead of PCB fabrication.
+
 ### 🌌 Robotics & Navigation
 * **Mars Rover Navigation (MHA* Ablation Study)**: Evaluated heuristic diversity for terrain-aware navigation on grid maps.
 * **Multi-Robot Coordination**: Investigated trust and blame attribution in human-robot interaction during failures.
